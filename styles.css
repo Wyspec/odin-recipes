@@ -1,0 +1,15 @@
+#header{
+    color: lightpink;
+    font-family: Georgia;
+    font-weight: 200;
+    text-align: center;
+    font-size: 60px;
+}
+
+h2{
+    color: slateblue;
+    font-family: "Brush Script MT";
+    font-weight: 100;
+    font-size: 40px;
+    padding: 0.5%;
+}
